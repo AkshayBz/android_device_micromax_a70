@@ -24,7 +24,7 @@ Now initialized the repository and pull the source (with my repos attached):
 
     $ cd ~/android/system/
     
-    $ repo init -u git://github.com/playfulgod/android.git -b gingerbread
+    $ repo init -u git://github.com/akshay/android.git -b gingerbread
     
     $ repo sync -j16
 
